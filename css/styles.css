@@ -92,9 +92,18 @@ a:hover {
   
   font-family: "Poppins", serif;
   font-weight: bolder;
-  font-size: 3rem;
+  font-size: 4rem;
   color: var(--primary-title);
+  margin-top: -8rem;
 }
+#mainHeading2{
+  font-family: "Poppins", serif;
+  font-weight: bolder;
+  font-size: 3.3rem;
+  color: var(--primary-title);
+  margin-left: 1.2em;
+}
+
 .h1{
   position: absolute;
   top: 12rem;
@@ -103,6 +112,9 @@ a:hover {
 
 #mainParagraph {
   font-size: 20px;
+  color:#2C97A9;
+  text-align: left;
+  margin-left: 4em;
 }
 
 /* #infoImg1 {
