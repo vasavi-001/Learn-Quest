@@ -190,7 +190,7 @@ a:hover {
 /* Feature Section */
 #featureHeading {
   
-
+width: 50%;
 text-align: left;
 height: 75px;
 margin: 100px 135px 25px;
@@ -237,6 +237,15 @@ text-align: left;
 color: #2C97A9;
 
 }
+
+/* Image */
+#features img{
+  position:relative;
+  left:-85px;
+  bottom:200px;
+ }
+ 
+
 /* Reference Section */
 
 /*overlay effect*/
