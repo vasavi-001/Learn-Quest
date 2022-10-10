@@ -189,59 +189,62 @@ a:hover {
 
 /* Feature Section */
 #featureHeading {
-  margin-top: 20px;
-  color: var(--primary-title);
-  font-size: 3.5rem;
-  font-family: "Poppins", sans-serif;
-  font-weight: bolder;
-  text-align: center;
-}
-
-.card {
-  transition: all 0.3s ease-in;
-  padding: 1.1rem;
-  background-color: #96a6ce5b;
-  border-radius: 1.25rem;
-  box-shadow: 5px 5px 10px #095557;
-  width: 18rem;
-}
-
-/* css for image inside card */
-.card-img-top {
-  margin: 0.25rem;
-  padding: 0.25rem;
-  border-radius: 1.25rem;
-}
-
-/* card hover effect */
-.card:hover {
-  transform: scale(1.05);
-  box-shadow: 5px 5px 15px #083840;
-}
-
-/* hover effect for image when card is hover */
-.card:hover .card-img-top {
-  border: 2px solid #083840;
-  border-radius: 0.8rem;
-}
-
-.card-body {
-  min-height: 145px;
+  
+width: 50%;
+text-align: left;
+height: 75px;
+margin: 100px 135px 25px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 75px;
+color: #083840;
 }
 
 .text-center {
   display: flex;
   flex-direction: column;
-  text-align: center;
-  align-items: center;
+  text-align: left;
+  align-items: left;
   justify-content: end;
 }
 
 .card-title {
-  justify-content: center;
-  text-align: center;
-  margin-bottom: 20px;
+height: 35px;
+margin: 10px 110px 5px;
+text-align: left;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 34px;
+
+color: #083840;
+
 }
+
+.card-text{
+width: 140px;
+margin: 0px 110px 10px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: left;
+color: #2C97A9;
+
+}
+
+/* Image */
+#features img{
+  position:relative;
+  left:-85px;
+  bottom:200px;
+ }
+ 
 
 /* Reference Section */
 
