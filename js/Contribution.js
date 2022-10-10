@@ -18,3 +18,19 @@ function dark_mode(e) {
         darkmode = "false";
     }
 }
+
+const toTop = document.querySelector(".to-top");
+const topBtn = document.querySelector(".btn-top");
+
+document.body.addEventListener("scroll",scrollTop);
+function scrollTop(){
+    if(document.body.scrollTop > 20){
+        toTop.style.display = "block";
+    }else{
+        toTop.style.display = "none";
+    }
+}
+
+topBtn.addEventListener("click",() => {
+    document.body.scrollTop = 0;
+})

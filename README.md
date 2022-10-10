@@ -1,4 +1,4 @@
-<!-- <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/42115530/94295926-a5741880-ff7f-11ea-890b-39ad20ac0f21.png" height='150' width='350'></div> -->
+<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='150' width='350'></div>
 
 <!-- <div>
     <img align=top src="https://miro.medium.com/max/1400/1*c4YgRXYQayOVWxV37ourrw.png" height="100" width="50%"/>
@@ -12,7 +12,7 @@
 
 [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/Learn-Quest)](https://github.com/DSC-JSS-NOIDA/Learn-Quest/issues)
 [![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/Learn-Quest)](https://github.com/DSC-JSS-NOIDA/Learn-Quest/pulls)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
+[![Maintenance](https://img.shields.io/maintenance/yes/2022?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
 [![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA/Learn-Quest?style=social)](https://github.com/DSC-JSS-NOIDA/Learn-Quest) [![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA/Learn-Quest?style=social)](https://github.com/DSC-JSS-NOIDA/Learn-Quest) [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/Learn-Quest?style=social)](https://github.com/DSC-JSS-NOIDA/Learn-Quest) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
 
 A collection of resources categorised by tech domains, languages, expertise and much more. LearnQuest gives you a quick access to all the resources that you could need at a single place, within a click!
