@@ -18,5 +18,16 @@
         "title": "C++ resources",
          "link": "https://www.learncpp.com/",
          "type": "docs"
+    },
+    {
+        "title": "Javapoint",
+        "link": "https://www.javatpoint.com/cpp-tutorial",
+        "type": "docs"
+
+    },
+    {
+        "title": "C++ Interview Que",
+        "link": "https://www.interviewbit.com/cpp-interview-questions/",
+        "type": "docs"
     }
 ]
