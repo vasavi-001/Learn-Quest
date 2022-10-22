@@ -28,5 +28,11 @@
     "title": "Learn Web3",
     "link":"https://www.learnweb3.io/",
     "type": "docs"
+  },
+  {
+    "title": "Solidity Tutorial",
+    "link":"https://cryptozombies.io/en/course/",
+    "type": "Course"
   }
+  
 ]
