@@ -28,7 +28,13 @@
         "title": "Intermediate Python Projects" ,
         "link": "https://www.youtube.com/watch?v=o5sb8ehRSYA",
         "type": "video"
+    },
+    {
+        "title": "GfG Documention on Python" ,
+        "link": "https://www.geeksforgeeks.org/python-programming-language/",
+        "type": "docs"
     }
+    
     
 
 ]
